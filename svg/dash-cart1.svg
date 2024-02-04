@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.225" height="46.481" viewBox="0 0 51.225 46.481">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="noun_cart_1445048" transform="translate(-11.7 -15.3)">
+    <g id="Group" transform="translate(11.7 15.3)">
+      <circle id="Path" class="cls-1" cx="5.09" cy="5.09" r="5.09" transform="translate(15.136 36.301)"/>
+      <circle id="Path-2" data-name="Path" class="cls-1" cx="5.09" cy="5.09" r="5.09" transform="translate(31.746 36.301)"/>
+      <path id="Path-3" data-name="Path" class="cls-1" d="M60.994,23.2H23.823L22.349,16.84a2.009,2.009,0,0,0-1.942-1.54H11.7v4.019h7.1l6.5,28.465a2.009,2.009,0,0,0,1.942,1.54h28.6a2.009,2.009,0,0,0,1.942-1.54l5.09-22.169a2.009,2.009,0,0,0-1.942-2.478Z" transform="translate(-11.7 -15.3)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.091" height="16" viewBox="0 0 13.091 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #535353;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-compare" data-name="Icon material-compare" class="cls-1" d="M9.591,2.955H5.955A1.459,1.459,0,0,0,4.5,4.409V14.591a1.459,1.459,0,0,0,1.455,1.455H9.591V17.5h1.455V1.5H9.591Zm0,10.909H5.955L9.591,9.5ZM16.136,2.955H12.5V4.409h3.636v9.455L12.5,9.5v6.545h3.636a1.459,1.459,0,0,0,1.455-1.455V4.409A1.459,1.459,0,0,0,16.136,2.955Z" transform="translate(-4.5 -1.5)"/>
+</svg>
